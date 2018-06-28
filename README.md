@@ -4,6 +4,13 @@
 
 This is the Back_end api for the Cam2U application as a final project of the HNC in Web Design at IES Aguadulce.
 
+![alt tag](https://github.com/oscarlmunoz/Cam2UFRONT/blob/master/cap1.png)
+![alt tag](https://github.com/oscarlmunoz/Cam2UFRONT/blob/master/cap2.png)
+![alt tag](https://github.com/oscarlmunoz/Cam2UFRONT/blob/master/cap3.png)
+![alt tag](https://github.com/oscarlmunoz/Cam2UFRONT/blob/master/cap4.png)
+![alt tag](https://github.com/oscarlmunoz/Cam2UFRONT/blob/master/cap5.png)
+![alt tag](https://github.com/oscarlmunoz/Cam2UFRONT/blob/master/cap6.png)
+
 ### How do I get set up? ###
 
 To preperare this Api you need to have installed PHP (5 or higher), a MySql database at port 8888 and execute the following script.
